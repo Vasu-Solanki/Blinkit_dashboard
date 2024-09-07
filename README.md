@@ -16,6 +16,6 @@ I recently completed a comprehensive Power BI dashboard for Blinkit, a grocery d
 This project allowed me to dive deep into the entire process of dashboard development, from gathering requirements to delivering insights that matter.
 
 I’m excited to continue exploring and refining my skills in Power BI and data analytics. 🚀
-[BLINK.pdf](https://github.com/user-attachments/files/16917652/BLINK.pdf)
+![BLINK_page-0001](https://github.com/user-attachments/assets/c8eba40c-e08c-4935-9545-c089a6a65c29)
 
 Would love to hear your thoughts and feedback on this project! 🙌
